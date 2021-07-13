@@ -14,7 +14,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 alt="express" width="40" height="40"/> </a>
 </p>
