@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javacript, C# and Java!**
 
-- 📫 My Discord profile: **! SıpançBet#9752**
+- 📫 My Discord profile: **! SpongeBed#9752**
 
 ## 🚀 Languages and Tools:
 
