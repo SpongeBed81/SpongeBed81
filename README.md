@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently making **API packages** and publish them to npm.
+- 🔭 I’m currently making **nothing lol**.
 
-- 🌱 I’m currently learning **Javacript and C#**
+- 🌱 I’m currently learning **Javacript, C# and Java!**
 
 - 📫 My Discord profile: **! SıpançBet#9752**
 
