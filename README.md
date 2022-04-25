@@ -23,7 +23,7 @@
        <a href="https://expressjs.com" target="_blank"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40"/> </a>
        <a href="https://firebase.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
        <a href="https://figma.com" target="_blank"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40"/> </a>
-        <a href="https://rollupjs.org" target="_blank"> <img src="https://rollupjs.org/logo.svg" alt="rollup" width="40" height="40"/> </a>    
+        <a href="https://rollupjs.org" target="_blank"> <img src="https://rollupjs.org/logo.svg" alt="rollup" width="45" height="45"/> </a>    
     
  
 </p>
