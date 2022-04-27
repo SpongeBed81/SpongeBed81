@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently making **nothing lol**.
+- 🔭 I’m currently making **a browser extension to watch anime together with your friends on TürkAnimeTV**.
 
 - 🌱 I’m currently learning **Javacript, C# and Java!**
 
