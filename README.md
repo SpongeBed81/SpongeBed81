@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently making **a browser extension to watch anime together with your friends on TürkAnimeTV**.
 
-- 🌱 I’m currently learning **Javacript, C# and Java!**
+- 🌱 I’m currently learning **JavaScript, C# and Svelte!**
 
 - 📫 My Discord profile: **! SpongeBed#8181**
 
