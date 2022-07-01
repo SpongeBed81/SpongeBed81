@@ -17,7 +17,8 @@
     <a href="https://tr.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="45" height="45"/> </a>
     <a href="https://tr.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="40" height="45"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+        <a style="padding-right:8px;" href="https://deno.land/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" width="45" height="45"/> </a> 
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="45" height="45"/> </a>  
      <a href="https://en.wikipedia.org/wiki/.NET_Framework" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/64px-.NET_Logo.svg.png" alt=".net" width="45" height="45"/> </a>   
       <a href="https://en.wikipedia.org/wiki/Svelte" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="35" height="45"/> </a>
