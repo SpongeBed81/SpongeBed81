@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently making **an open source anime platform**.
+- 🔭 I’m currently making **an open source anime platform https://github.com/OpenAnime**.
 
 - 🌱 I’m currently learning **JavaScript, C#, Svelte and Svelte Native**
 
