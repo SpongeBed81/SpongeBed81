@@ -58,6 +58,14 @@
 <br/>
 <br/>
 
+## 📊 My Wakatime Stats
+
+<details>
+  <summary>
+      Wakatime stats
+  </summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SpongeBed">
+</details>
 
 
 ## ❤ Views and Followers
