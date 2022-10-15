@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, C#, Svelte and Svelte Native**
 
-- 📫 My Discord profile: **! SpongeBed#8181**
+- 📫 My Discord profile: **SpongeBed#8181**
 
 ## 🚀 Languages and Tools:
 
