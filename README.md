@@ -39,5 +39,8 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
 
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
