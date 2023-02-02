@@ -21,11 +21,11 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
         <a href="https://rollupjs.org" target="_blank"> <img src="https://rollupjs.org/rollup-logo.svg" alt="rollup" width="35" height="35" style="padding-right:10px;" align="left"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="Git" width="35" height="35" style="padding-right:10px;" align="left"/> </a>
       <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="35" height="35" style="padding-right:10px;" align="left"/> </a>
+    <br>
+    <br>
       <a href="https://esprima.org/" target="_blank"> <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/esprima/esprima-icon-color.png" alt="Esprima" width="35" height="35" style="padding-right:10px;" align="left"/> </a>
             <a href="https://www.fastify.io/" target="_blank"> <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/fastify/fastify-icon-white-dark_background.svg" alt="Fastify" width="35" height="35" style="padding-right:10px;" align="left"/> </a>
              <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="30" height="30"/> </a>
-    <br>
-    <br>
             <a href="https://visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="40" height="35" style="padding-right:10px;" align="left"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1024px-Npm-logo.svg.png" alt="NPM" width="50" height="23" style="padding-right:10px;" align="left"/> </a>
      <a href="https://pnpm.io/" target="_blank"> <img src="https://pnpm.io/img/favicon.png" alt="PNPM" width="30" height="30" style="padding-right:10px;" align="left"/> </a>
