@@ -36,3 +36,8 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
 #
 
 ### 📊 Statistics
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
