@@ -44,3 +44,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+### 📞 Contact
+Discord: **SpongeBed#7134**
+
+Instagram: **spongbed81**
