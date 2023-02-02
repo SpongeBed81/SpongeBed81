@@ -45,6 +45,13 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+  <br/>
+  <p align="center">
+        <a href="https://github.com/SpongeBed81/github-readme-stats"><img alt="SpongeBed81's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SpongeBed81&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SpongeBed81/github-readme-stats"><img alt="SpongeBed81's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeBed81&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p/>
+  <br/>
+
 ### 📞 Contact
 Discord: **SpongeBed#7134**
 
