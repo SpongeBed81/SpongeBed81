@@ -55,4 +55,4 @@ No activity tracked
 ### 📞 Contact
 Discord: **SpongeBed#7134**
 
-Instagram: **spongbed81**
+Instagram: **spongebed81**
