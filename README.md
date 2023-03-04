@@ -40,12 +40,12 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 15 mins   ████████████████▒░░░░░░░░   65.29 %
-HTML         1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-V            44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-CSS          43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Python       40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JavaScript   6 hrs 4 mins    ████████████████▒░░░░░░░░   65.05 %
+HTML         1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+V            44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+CSS          43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Python       40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
