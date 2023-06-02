@@ -39,7 +39,7 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Svelte       7 hrs 34 mins   ████████████▒░░░░░░░░░░░░   49.01 %
 JavaScript   7 hrs           ███████████▒░░░░░░░░░░░░░   45.32 %
 Bash         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
