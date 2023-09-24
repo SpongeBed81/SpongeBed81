@@ -57,6 +57,6 @@ V            20 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
   <br/>
 
 ### 📞 Contact
-Discord: **SpongeBed#7134**
+Discord: **spongebed**
 
 Instagram: **spongebed81**
