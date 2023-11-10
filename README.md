@@ -40,9 +40,9 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte           719 hrs 28 mins ████████████░░░░░░░░░░░░░   48.17 %
-JavaScript       563 hrs 20 mins █████████▒░░░░░░░░░░░░░░░   37.72 %
-HTML             60 hrs 54 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Svelte           719 hrs 40 mins ████████████░░░░░░░░░░░░░   48.16 %
+JavaScript       563 hrs 23 mins █████████▒░░░░░░░░░░░░░░░   37.70 %
+HTML             61 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 JSON             26 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 V                20 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
