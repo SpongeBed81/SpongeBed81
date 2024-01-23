@@ -1,5 +1,5 @@
 # 🐱‍👤 Uras
-Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynamic and user-friendly web applications. I have 3 years of experience and my technical skills include JavaScript and C#, and I love using Svelte to bring my projects to life on the frontend. I enjoy the process of taking a project from an idea to a fully functional and polished product, and I believe that every detail counts when it comes to delivering the best possible user experience 😅
+Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynamic and user-friendly web applications. I have 4 years of experience and my technical skills include JavaScript and C#, and I love using Svelte to bring my projects to life on the frontend. I enjoy the process of taking a project from an idea to a fully functional and polished product, and I believe that every detail counts when it comes to delivering the best possible user experience 😅
 
 ---
 
