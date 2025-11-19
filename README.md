@@ -72,7 +72,7 @@ Hello! I'm a Full-Stack Development enthusiast with a passion for creating dynam
 Svelte                    1,426 hrs 12 mins███████████░░░░░░░░░░░░░░   44.38 %
 JavaScript                757 hrs 46 mins ██████░░░░░░░░░░░░░░░░░░░   23.58 %
 TypeScript                574 hrs 56 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-Python                    103 hrs 55 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Python                    104 hrs 4 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 HTML                      80 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
