@@ -82,8 +82,6 @@ JSON                      88 hrs 16 mins        ▓░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<br/>
-
 ### 📩 reach out
 Feel free to drop a line if you want to talk about building things, weird ideas, or projects that are worth obsessing over.
 
