@@ -29,6 +29,7 @@ Most of my time goes into my project [OpenAnime](https://github.com/OpenAnime) w
 ![Deno](https://img.shields.io/badge/Deno-white?style=flat-square&logo=deno&logoColor=black)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 
 ### 🧠 ai, ml & data
 
