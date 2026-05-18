@@ -2,7 +2,7 @@
 
 Developer based in Turkey, building around AI, graphics, frame interpolation, super resolution, and the web. I like working on things that feel technically ambitious, visually intentional, and a little different from the usual.
 
-Most of my time goes into my project OpenAnime where I'm building a browser-based video interpolation with WebGPU, image restoration experiments with PyTorch, and full-stack products where both the internals and the interface matter.
+Most of my time goes into my project [OpenAnime](https://github.com/OpenAnime) where I'm building a browser-based video interpolation with WebGPU, image restoration experiments with PyTorch, and full-stack products where both the internals and the interface matter.
 
 ---
 
