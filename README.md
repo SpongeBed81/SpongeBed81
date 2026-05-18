@@ -30,6 +30,8 @@ Most of my time goes into my project [OpenAnime](https://github.com/OpenAnime) w
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![NativeScript](https://img.shields.io/badge/NativeScript-65ADF1?style=flat-square&logo=nativescript&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 🧠 ai, ml & data
 
