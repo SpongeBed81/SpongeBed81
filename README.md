@@ -77,11 +77,11 @@ Most of my time goes into my project [OpenAnime](https://github.com/OpenAnime) w
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte                    1,709 hrs 10 mins     ██████████▓░░░░░░░░░░░░░░   43.26 %
-TypeScript                833 hrs 28 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-JavaScript                831 hrs 48 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-Python                    130 hrs 57 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-JSON                      108 hrs 58 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Svelte                    1,709 hrs 54 mins     ██████████▓░░░░░░░░░░░░░░   43.26 %
+TypeScript                833 hrs 28 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+JavaScript                832 hrs 21 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+Python                    131 hrs               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON                      108 hrs 59 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
