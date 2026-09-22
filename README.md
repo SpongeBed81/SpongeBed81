@@ -79,7 +79,7 @@ Most of my time goes into my project [OpenAnime](https://github.com/OpenAnime) w
 ```txt
 Svelte                    1,729 hrs 1 min       ██████████▓░░░░░░░░░░░░░░   42.96 %
 TypeScript                848 hrs 43 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
-JavaScript                842 hrs 4 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+JavaScript                842 hrs 11 mins       █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
 Python                    135 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 JSON                      112 hrs 12 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
